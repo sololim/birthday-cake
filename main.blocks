@@ -1,0 +1,13 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="XmwhbM1w]@fvP@@.ucLS" x="0" y="0"><statement name="HANDLER"><block type="device_show_leds" id="P6xxuf/#Jc;l5R{en{QF"><field name="LEDS">`
+        # . # . # 
+        # # # # # 
+        # # # # # 
+        # # # # # 
+        # # # # #
+        `</field><next><block type="device_pause" id="c0RONyti1XKg=SEg[EjR"><value name="pause"><shadow type="timePicker" id="4%*4O*9L2hXZVw0;Z#iQ"><field name="ms">2000</field></shadow></value><next><block type="device_play_note" id="XoEUhaf?s3H~.E=y3~S2"><value name="note"><shadow type="device_note" id="[aUqFMC9F*!85[t/o3QK"><field name="name">262</field></shadow></value><value name="duration"><shadow type="device_beat" id="S@cZW_sF9vFDH*HbmU!_"><field name="fraction">BeatFraction.Whole</field></shadow></value><next><block type="device_play_note" id="z48Kv]G.DDLlT`-MJp!~"><value name="note"><shadow type="device_note" id="/w9Xke0R]E9G;X2]0zMF"><field name="name">277</field></shadow></value><value name="duration"><shadow type="device_beat" id="BD0^*hN{%{EGYABt)(f9"><field name="fraction">BeatFraction.Whole</field></shadow></value><next><block type="device_show_leds" id="9A%*NYg=1!Yu39K5g:NZ"><field name="LEDS">`
+        . . . . . 
+        # # # # # 
+        # # # # # 
+        # # # # # 
+        # # # # #
+        `</field></block></next></block></next></block></next></block></next></block></statement></block><block type="device_button_event" id="Ydd(|hXU_z|rS$}VBDH`" x="548" y="9"><field name="NAME">Button.AB</field><statement name="HANDLER"><block type="basic_show_icon" id="!0Mx9bvFqW8~U,Q8hT9O"><field name="i">IconNames.Ghost</field></block></statement></block></xml>
